@@ -1,0 +1,31 @@
+
+
+h2 {
+    margin-left: 10%;
+    font-size: medium;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    font-size: medium;
+    color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(65, 103, 218);
+    text-align: center;
+
+}
+
+h1 { 
+    font-size: larger;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: small;
+}
+
+header p {
+    margin: 3px;
+}
