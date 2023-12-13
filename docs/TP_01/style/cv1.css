@@ -1,0 +1,64 @@
+h2 {
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: Larger;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    font-size: larger;
+    color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(65, 103, 218);
+    text-align: center;
+    margin-top: 1px;
+    width: 100%;
+    
+}
+
+address {
+    font-size: medium;
+    margin-top: 20px;
+}
+
+h1 { 
+    font-size: xx-large;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+
+p {
+    font-size: medium;
+}
+
+header p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+time {
+    display: inline-block;
+    font-size: medium;
+    color: gray;
+    margin-right: 15px;
+    text-align: right;
+    border: solid 5px black;
+    width: 100px;
+}
+
+section p span {
+    position: absolute;
+    right: 0px;
+    border: solid 5px black;
+    text-align: right;
+    display: inline;
+    width: 250px;
+}
+
+section p  {
+    margin: auto;
+
+}
+
